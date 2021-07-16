@@ -3,7 +3,7 @@ module.exports = {
     keywords: '前端开发',
     description: '前端开发 andy Fang Blog',
     repo: 'https://github.com/andyFang94/andyblog.git',
-    base: '/blog/',
+    base: '/andyblog/',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
